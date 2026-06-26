@@ -249,45 +249,30 @@ The notebook includes several visualizations to support the analysis.
 
 ## Dataset Exploration
 
-Replace with your screenshot.
-
-```text
-images/
-└── target_distribution.png
-```
+![target distribution](images/target_distribution.png)
 
 ---
 
 ## Missing Value Analysis
 
-Replace with your screenshot.
+![missing values](images/missing_values.png)
 
-```text
-images/
-└── missing_values.png
-```
+
 
 ---
 
 ## Confusion Matrix
 
-Replace with your screenshot.
+![Confusion Matrix](images/confusion_matrix.png)
 
-```text
-images/
-└── confusion_matrix.png
-```
 
 ---
 
 ## Logistic Regression Coefficients
 
-Replace with your coefficient bar chart.
+![Logistic Regression Coefficients bar char](images/logistic_coefficients.png)
 
-```text
-images/
-└── logistic_coefficients.png
-```
+
 
 ---
 
@@ -308,7 +293,7 @@ Future work could include:
 
 The Logistic Regression model achieved strong predictive performance, correctly classifying the majority of passengers while providing interpretable insights into the factors that influence customer satisfaction.
 
-The analysis demonstrates that improving the **overall passenger experience**—particularly inflight entertainment, seat comfort, online services, and onboard service—is likely to have a greater impact on customer satisfaction than focusing solely on operational delay reductions.
+The analysis demonstrates that improving the **overall passenger experience**, particularly inflight entertainment, seat comfort, online services, and onboard service is likely to have a greater impact on customer satisfaction than focusing solely on operational delay reductions.
 
 ---
 
