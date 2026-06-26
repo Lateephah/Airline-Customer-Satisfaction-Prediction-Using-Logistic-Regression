@@ -247,18 +247,6 @@ Further analysis should identify which customer groups are less satisfied so tha
 
 The notebook includes several visualizations to support the analysis.
 
-## Dataset Exploration
-
-![target distribution](images/target_distribution.png)
-
----
-
-## Missing Value Analysis
-
-![missing values](images/missing_values.png)
-
-
-
 ---
 
 ## Confusion Matrix
